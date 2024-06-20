@@ -19,7 +19,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <a class="navbar-brand text-light" href="#">Volks</a>
+            <a class="navbar-brand text-light" href="#">Volkswagen</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
                 <a class="nav-link  text-light" aria-current="page" href="#">Inicio</a>
@@ -54,7 +54,9 @@
             <img src="../imagenes/riquelme-topo-gigio_0.jpg" height="600px" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="../ecommerce-website/imagenes/1200px-VW_Scirocco_III_2.0_TSI_DSG_Collectors_Edition_54_von_100_Oryxweiß.jpg" height="600px" class="d-block w-100" alt="...">
+            <img src="../bocapasion.github.io/imagenes
+/1200px-VW_Scirocco_III_2.0_TSI_DSG_Collectors_Edition_54_von_100_Oryxweiß.jpg
+" height="600px" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -74,7 +76,8 @@
     
     <div class="contenedorcard">
     <div class="card" style="width: 18rem;">
-        <img src="../ecommerce-website/imagenes/1200px-VW_Scirocco_III_2.0_TSI_DSG_Collectors_Edition_54_von_100_Oryxweiß.jpg" class="card-img-top" alt="...">
+        <img src="..//bocapasion.github.io/imagenes
+/1200px-VW_Scirocco_III_2.0_TSI_DSG_Collectors_Edition_54_von_100_Oryxweiß.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Volkswagen Scirocco</h5>
           <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique eum debitis itaque modi ipsa exercitationem sequi, corrupti culpa blanditiis. Totam at obcaecati quaerat minus esse voluptas sapiente, commodi dolores voluptates?</p>
