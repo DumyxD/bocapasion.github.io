@@ -41,7 +41,8 @@
       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../ecommerce-website/imagenes/VW-Golf-I.jpg" height="600px" class="d-block w-100" alt="...">
+            <img src="../bocapasion.github.io/imagenes
+/1200px-VW_Scirocco_III_2.0_TSI_DSG_Collectors_Edition_54_von_100_Oryxweiß.jpg" height="600px" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
             <img src="../ecommerce-website/imagenes/BGHIJJU3ENHFNIMKQDAZXZ5A5A.jpg" height="600px" class="d-block w-100" alt="...">
